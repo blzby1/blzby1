@@ -1,9 +1,8 @@
 Sup!
 ===
 
-I am just a student that likes to code with HTML and stuff
-
-I'm thinking of learning other languages other than markup
+I make things in my free time. Most of the stuff on my profile is QOL/For fun.
 
 
+Feel free to look around!
 
